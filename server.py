@@ -2,7 +2,7 @@ import discord
 import requests
 from discord import client
 from discord.ext import commands
-TOKEN = "ODAwMzc3MzU4ODc0OTY4MDg1.YARPgA.Uuo93_cvU35Q4C5YsulQvxz0v-4"
+TOKEN = "PUT YOUR TOKEN HERE"
 client = commands.Bot(command_prefix="!", activity=discord.Streaming(name='Apex Legends', url='https://www.twitch.tv/greg_coooper'))
 
 
